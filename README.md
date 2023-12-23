@@ -13,7 +13,7 @@ $ npm install
 $ npm run dev
 ```
 
-Create a new `.env` folder and create the necessary variables based on the `src/appwriteConfig.js` file. Appwrite setup will be covered in the next step.
+Create a new `.env` file and create the necessary variables based on the `src/appwriteConfig.js` file. Appwrite setup will be covered in the next step.
 
 ```js
 //appwrite.Config.js
